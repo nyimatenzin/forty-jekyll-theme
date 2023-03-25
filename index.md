@@ -12,4 +12,4 @@ Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris a
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pEwnHawfYYk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pEwnHawfYYk?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
